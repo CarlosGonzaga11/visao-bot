@@ -1,4 +1,4 @@
-# 🤖 Bot com visão computacional para um jogo 2D
+# 🤖 Visão Bot: automação com visão computacional
 
 Automação de ponta a ponta que **enxerga a tela, entende o que está acontecendo e decide o que fazer**,
 num jogo online 2D (PokeAlliance, cliente OTClient, Windows). Construído do zero em poucas semanas,
