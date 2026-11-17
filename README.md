@@ -7,6 +7,8 @@ num jogo online 2D (PokeAlliance, cliente OTClient, Windows). Construído do zer
 > ⚠️ Projeto pessoal de estudo. Usar bots pode ir contra as regras de jogos online. Esta é uma
 > **versão de portfólio**: funções de interação com outros jogadores foram retiradas (veja no fim).
 
+![Painel do bot: abas de configuração, botões para ligar/desligar cada módulo e iniciar o bot](docs/painel.png)
+
 ---
 
 ## O problema
