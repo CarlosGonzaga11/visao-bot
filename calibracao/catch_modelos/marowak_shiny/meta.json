@@ -1,0 +1,14 @@
+{
+ "nome": "Marowak shiny",
+ "sqm": 50.91,
+ "limiar": 0.85,
+ "ancora": [
+  -1,
+  5
+ ],
+ "h": [
+  85,
+  115
+ ],
+ "origem": "print 22:29 (tamanho real) e testes/dados/marowak_shiny.png; medido em 33 prints | âncora conferida com a grade de sqm nos prints 17:33 e 22:29 (o corpo cabe no próprio sqm)"
+}

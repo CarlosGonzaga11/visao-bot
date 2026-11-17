@@ -1,0 +1,17 @@
+# Ambiente
+venv/
+__pycache__/
+*.pyc
+
+# Dados pessoais e gerados pelo uso (nunca subir)
+segredos.json
+ajustes.json
+comando_bot.json
+estado_bot.json
+mapa_memoria.json
+bot_log.txt
+alarmes/
+diagnostico/
+conversas/
+rota/
+hunts/

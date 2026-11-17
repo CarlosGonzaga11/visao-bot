@@ -1,0 +1,104 @@
+[
+  {
+    "id": "rattata_azul",
+    "nome": "Rattata azul",
+    "tipo": "especial",
+    "h": [
+      104,
+      115
+    ],
+    "s": [
+      100,
+      210
+    ],
+    "v": [
+      90,
+      255
+    ],
+    "pixels": 150,
+    "local": null,
+    "amostra": null
+  },
+  {
+    "id": "marowak_shiny",
+    "nome": "Marowak shiny",
+    "tipo": "especial",
+    "h": [
+      93,
+      99
+    ],
+    "s": [
+      130,
+      255
+    ],
+    "v": [
+      55,
+      245
+    ],
+    "pixels": 375,
+    "local": [
+      3475,
+      1950,
+      11
+    ],
+    "amostra": null,
+    "pelo_corpo": true,
+    "min_corpo": 80,
+    "modelo": "marowak_shiny",
+    "obs": "modelo (desenho) desde 08/11: procura em qualquer hunt; o local só desliga as estrelinhas lá"
+  },
+  {
+    "id": "shiny_auto_87_96",
+    "nome": "Shiny automático (cor 87–96)",
+    "tipo": "especial",
+    "h": [
+      87,
+      96
+    ],
+    "s": [
+      96,
+      255
+    ],
+    "v": [
+      97,
+      250
+    ],
+    "pixels": 676,
+    "local": [
+      531,
+      1472,
+      6
+    ],
+    "amostra": null,
+    "pelo_corpo": true,
+    "min_corpo": 250,
+    "automatico": true
+  },
+  {
+    "id": "shiny_auto_156_170",
+    "nome": "Shiny automático (cor 156–170)",
+    "tipo": "especial",
+    "h": [
+      156,
+      170
+    ],
+    "s": [
+      132,
+      255
+    ],
+    "v": [
+      70,
+      250
+    ],
+    "pixels": 153,
+    "local": [
+      578,
+      1487,
+      6
+    ],
+    "amostra": null,
+    "pelo_corpo": true,
+    "min_corpo": 100,
+    "automatico": true
+  }
+]
